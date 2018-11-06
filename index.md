@@ -1,4 +1,7 @@
-![snake icon](https://i.imgur.com/HGwDHOa.png)
+
+<p align="center">
+  <img src="https://i.imgur.com/HGwDHOa.png">
+</p>
 
 *A card based approach to Snakes and Ladders.*
 
