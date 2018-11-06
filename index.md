@@ -11,8 +11,11 @@ Every player gets a card at the start of their turn. It is up to them when they 
 ## Mana
 Notice the gem with a number in the bottom right corner of the cards. This indicates how much mana the card uses up. Mana gets replenished to 20 at the start of the turn.
 ### List of cards:
+![do](anaDo.png)
+![dont](anaDont.png)
+![back](snekBack.png)
+![go](snekGo.png)
+![off](sneksOffPlane.png)
+![on](sneksOnPlane.png)
+
 Album on imgur:  https://imgur.com/a/soH089S
-
-- [do](https://imgur.com/PaJ8aAC)
-
-- ![Image](https)
