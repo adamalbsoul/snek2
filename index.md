@@ -1,4 +1,4 @@
-![snake icon](https://image.flaticon.com/icons/svg/1167/1167722.svg)
+![snake icon](https://i.imgur.com/neqiXec.png)
 *A card based approach to Snakes and Ladders.*
 
 # TL;DR (Rules)
@@ -17,7 +17,5 @@ Notice the gem with a number in the bottom right corner of the cards. This indic
 ![go](snekGo.png)
 ![off](sneksOffPlane.png)
 ![on](sneksOnPlane.png)
-
-[Album on imgur](https://imgur.com/a/soH089S)
 
 Snake icon made by [freepik](https://www.flaticon.com/authors/freepik) from www.flaticon.com 
