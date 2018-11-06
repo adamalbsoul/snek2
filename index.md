@@ -19,7 +19,7 @@ One deck consists of:
 </ul>
 Every player takes a card from the deck at the start of their turn. They can use the card instantly or some other turn. When a card is used, it is discarded.
 ## Mana
-Notice the gem with a number in the bottom right corner of the cards. This indicates how much mana the card uses up. Both players start the game with **0 mana**. At the **start of a turn**, the player gets **2 mana**, and **10 when they get to a snake square**.
+Notice the gem with a number in the bottom right corner of the cards. This indicates how much mana the card uses up. Both players start the game with **0 mana**. At the **start of a turn**, the player gets **2 mana**, and **10 when they get to a snake square**. Players should keep note of this by writing the mana down on a piece of paper.
 
 ## List of cards:
 ![do](anaDo.png)
