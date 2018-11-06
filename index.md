@@ -21,7 +21,7 @@ Notice the gem with a number in the bottom right corner of the cards. This indic
 ![go](snekGo.png)
 ![off](sneksOffPlane.png)
 ![on](sneksOnPlane.png)
-![square](sq1.png)
-![oil](oil.png)
+![square](sq2.png)
+![oil](oil2.png)
 
 Snake icon made by [freepik](https://www.flaticon.com/authors/freepik) from www.flaticon.com 
