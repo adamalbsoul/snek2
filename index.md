@@ -1,4 +1,4 @@
-![snake icon](snake.png)
+![snake icon](https://image.flaticon.com/icons/svg/1167/1167722.svg)
 *A card based approach to Snakes and Ladders.*
 
 # TL;DR (Rules)
