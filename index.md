@@ -10,10 +10,10 @@ The game is played just like the classic Snakes and Ladders game, with one major
 We will assume that you know the rules to Snakes and Ladders. If you don't, [this link](https://www.wikihow.com/Play-Snakes-and-Ladders) explains the rules.
 
 ## Cards
-One set consists of:
-*3x 10 mana cards
-*2x 30 mana cards
-*1x 40 mana card
+One set consists of:&nbsp;
+*3x 10 mana cards&nbsp;
+*2x 30 mana cards&nbsp;
+*1x 40 mana card&nbsp;
 
 Every player gets a card at the start of their turn. It is up to them when they are going to use them. When a card is used, it is discarted.
 ## Mana
