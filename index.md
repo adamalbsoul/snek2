@@ -11,12 +11,9 @@ We will assume that you know the rules to Snakes and Ladders. If you don't, [thi
 
 ## Cards
 One set consists of:
-
--3x 10 mana cards
-
--2x 30 mana cards
-
--1x 40 mana card
+*3x 10 mana cards
+*2x 30 mana cards
+*1x 40 mana card
 
 Every player gets a card at the start of their turn. It is up to them when they are going to use them. When a card is used, it is discarted.
 ## Mana
