@@ -10,15 +10,15 @@ The game is played just like the classic Snakes and Ladders game, with one major
 We will assume that players know the rules to Snakes and Ladders. If not, [this link](https://www.wikihow.com/Play-Snakes-and-Ladders) explains the rules.
 
 ## Cards
-One set consists of:
+One deck consists of:
 <ul>
 <li>3x 10 mana cards</li>
 <li>2x 30 mana cards</li>
 <li>1x 40 mana card</li>
 </ul>
-Every player takes a card from the deck at the start of their turn. They can use the card instantly or some other turn. When a card is used, it is discarted.
+Every player takes a card from the deck at the start of their turn. They can use the card instantly or some other turn. When a card is used, it is discarded.
 ## Mana
-Notice the gem with a number in the bottom right corner of the cards. This indicates how much mana the card uses up. Both players start the game with 0 mana. At the **start of a turn**, the player gets **2 mana**, abd **10 when they get to a snake square**.
+Notice the gem with a number in the bottom right corner of the cards. This indicates how much mana the card uses up. Both players start the game with **0 mana**. At the **start of a turn**, the player gets **2 mana**, and **10 when they get to a snake square**.
 
 ## List of cards:
 ![do](anaDo.png)
