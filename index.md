@@ -1,4 +1,4 @@
-![snake icon](snake.png = 250x250)
+![snake icon](snake.png | width=100)
 *A card based approach to Snakes and Ladders.*
 
 # TL;DR (Rules)
