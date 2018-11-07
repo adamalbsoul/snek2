@@ -12,10 +12,10 @@ We will assume that players know the rules to Snakes and Ladders. If not, [this 
 ## Cards
 One deck consists of:
 <ul>
-  <li>3x 10 mana cards</li>
-  <li>2x 20 mana cards</li>
-  <li>2x 30 mana cards</li>
-  <li>1x 40 mana card</li>
+  <li>9x 10 mana skill cards</li>
+  <li>6x 20 mana skill cards</li>
+  <li>3x 30 mana skill cards</li>
+  <li>1x 40 mana skill card</li>
 </ul>
 Every player takes a card from the deck at the start of their turn. They can use the card instantly or some other turn. When a card is used, it is discarded. The maximum cards that a player can hold at one time is 4.
 ## Mana
